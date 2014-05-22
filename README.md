@@ -10,7 +10,7 @@ L'application est pour l'instant en plein developpement.
 Version
 ----
 
-0.1
+0.1-dev
 
 Tech
 -----------

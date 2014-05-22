@@ -21,6 +21,7 @@ class AppKernel extends Kernel
             new Bface\CommentBundle\BfaceCommentBundle(),
             new Bface\MainBundle\BfaceMainBundle(),
             new Bface\MessageBundle\BfaceMessageBundle(),
+            new FOS\UserBundle\FOSUserBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {
