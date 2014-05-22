@@ -1,0 +1,3 @@
+bface_media_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: BfaceMediaBundle:Default:index }

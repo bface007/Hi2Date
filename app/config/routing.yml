@@ -1,0 +1,20 @@
+bface_message:
+    resource: "@BfaceMessageBundle/Resources/config/routing.yml"
+    prefix:   /
+
+bface_main:
+    resource: "@BfaceMainBundle/Resources/config/routing.yml"
+    prefix:   /
+
+bface_comment:
+    resource: "@BfaceCommentBundle/Resources/config/routing.yml"
+    prefix:   /
+
+bface_media:
+    resource: "@BfaceMediaBundle/Resources/config/routing.yml"
+    prefix:   /
+
+bface_user:
+    resource: "@BfaceUserBundle/Resources/config/routing.yml"
+    prefix:   /
+

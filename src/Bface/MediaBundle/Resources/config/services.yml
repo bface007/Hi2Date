@@ -1,0 +1,7 @@
+parameters:
+#    bface_media.example.class: Bface\MediaBundle\Example
+
+services:
+#    bface_media.example:
+#        class: %bface_media.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

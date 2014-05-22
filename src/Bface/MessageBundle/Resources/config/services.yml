@@ -1,0 +1,7 @@
+parameters:
+#    bface_message.example.class: Bface\MessageBundle\Example
+
+services:
+#    bface_message.example:
+#        class: %bface_message.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

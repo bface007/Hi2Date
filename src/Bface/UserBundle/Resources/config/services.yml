@@ -1,0 +1,7 @@
+parameters:
+#    bface_user.example.class: Bface\UserBundle\Example
+
+services:
+#    bface_user.example:
+#        class: %bface_user.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

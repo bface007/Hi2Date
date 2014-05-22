@@ -1,0 +1,7 @@
+parameters:
+#    bface_comment.example.class: Bface\CommentBundle\Example
+
+services:
+#    bface_comment.example:
+#        class: %bface_comment.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

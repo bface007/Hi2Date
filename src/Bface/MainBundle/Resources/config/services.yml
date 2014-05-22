@@ -1,0 +1,7 @@
+parameters:
+#    bface_main.example.class: Bface\MainBundle\Example
+
+services:
+#    bface_main.example:
+#        class: %bface_main.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
